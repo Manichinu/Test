@@ -124,6 +124,7 @@ function App() {
       <button onClick={() => getFiles("testing31052000", "Folder1")}>Get Data</button>
       <input type='search' onChange={(e) => searchVal(e.target.value)} />
       {/* <button onClick={() => getFileFromS3("testing31052000/demo1/demo2")}>Get Data</button> */}
+    <h1>Demo</h1>
     </>
   );
 }
