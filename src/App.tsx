@@ -125,6 +125,7 @@ function App() {
       <input type='search' onChange={(e) => searchVal(e.target.value)} />
       {/* <button onClick={() => getFileFromS3("testing31052000/demo1/demo2")}>Get Data</button> */}
     <h1>Demo</h1>
+    <h1>Mani</h1>
     </>
   );
 }
