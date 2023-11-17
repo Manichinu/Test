@@ -120,6 +120,7 @@ function App() {
 
   return (
     <>
+    <h2>Friday</h2>
       <p>Test</p>
       <button onClick={() => getFiles("testing31052000", "Folder1")}>Get Data</button>
       <input type='search' onChange={(e) => searchVal(e.target.value)} />
